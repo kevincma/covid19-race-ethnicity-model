@@ -1,4 +1,4 @@
-# covid19-race-ethnicity-models
+# covid19-race-ethnicity-model
 
 Code to reproduce figures in Ma et al., 2020 (preliminary title "Modeling the impact of racial and ethnic disparities on COVID-19 epidemic dynamics").
 
